@@ -71,7 +71,7 @@ sh stress_test.sh
 
 **查找操作（读）**
 
-![search_test](/home/zzr/Skiplist_zzr/source/search_test.png)
+![search_test](https://github.com/Zhirui-Zhang/Skiplist_zzr/blob/a874f188d706f733e338aa4a95d818501d264932/source/main_test.png)
 
 **插入操作（写）**
 
