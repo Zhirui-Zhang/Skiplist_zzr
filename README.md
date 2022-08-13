@@ -53,7 +53,7 @@ make
 
 **测试结果**
 
-![](C:\Users\张芷瑞\AppData\Roaming\marktext\images\2022-08-13-19-52-19-image.png)
+![main_test](/home/zzr/Skiplist_zzr/source/main_test.png)
 
 ## 压力测试
 
@@ -71,11 +71,11 @@ sh stress_test.sh
 
 **查找操作（读）**
 
-![](C:\Users\张芷瑞\AppData\Roaming\marktext\images\2022-08-13-19-37-03-1660390619431.png)
+![search_test](/home/zzr/Skiplist_zzr/source/search_test.png)
 
 **插入操作（写）**
 
-![](C:\Users\张芷瑞\AppData\Roaming\marktext\images\2022-08-13-20-00-15-image.png)
+![insert_test](/home/zzr/Skiplist_zzr/source/insert_test.png)
 
 
 
