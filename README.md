@@ -53,7 +53,7 @@ make
 
 **测试结果**
 
-![main_test](/home/zzr/Skiplist_zzr/source/main_test.png)
+![main_test](https://github.com/Zhirui-Zhang/Skiplist_zzr/blob/3dbf0d73c9b01ceb59fac9ce766c6d324680d775/source/main_test.png)
 
 ## 压力测试
 
