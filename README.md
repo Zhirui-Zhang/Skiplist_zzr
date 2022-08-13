@@ -75,7 +75,7 @@ sh stress_test.sh
 
 **插入操作（写）**
 
-![insert_test](/home/zzr/Skiplist_zzr/source/insert_test.png)
+![insert_test](https://github.com/Zhirui-Zhang/Skiplist_zzr/blob/1ec544ca73cafb7c6629c87adc6a5ff346a5116c/source/insert_test.png)
 
 
 
